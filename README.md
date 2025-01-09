@@ -1,4 +1,4 @@
-# Filmová databáze GAMDB
+# Basketbalový e-shop
 
 *Autor: Andrii Hryb <andrii.hryb.s@gyarab.cz>*
 
