@@ -13,3 +13,5 @@ V hlavním menu bude odkaz na homepage (seznam produktů), seznam kategorií a p
 ## Wireframes
 
 ![e-shop_wireframe](./e-shop_wireframe.jpg)
+
+## DB schema
