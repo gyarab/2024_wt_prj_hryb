@@ -15,3 +15,5 @@ V hlavním menu bude odkaz na homepage (seznam produktů), seznam kategorií a p
 ![e-shop_wireframe](./e-shop_wireframe.jpg)
 
 ## DB schema
+
+![e-shop_DB_schema](./e-shop_DB_schema.jpg)
